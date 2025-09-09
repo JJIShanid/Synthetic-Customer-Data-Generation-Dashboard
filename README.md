@@ -4,6 +4,7 @@ This project demonstrates **GAN-based synthetic data generation** for customer a
 It ensures **data privacy** while enabling businesses to train models, test dashboards, and analyze patterns without using real customer data.
 
 ---
+<img width="1910" height="972" alt="p1" src="https://github.com/user-attachments/assets/5349ca5b-729c-4472-ad69-49ab33e5f6e8" />
 
 ## ✅ Key Features
 ✔ **Generative AI with GAN** – Creates realistic, privacy-safe synthetic customer data.  
@@ -15,6 +16,7 @@ It ensures **data privacy** while enabling businesses to train models, test dash
 ✔ **Download Option** – Export synthetic dataset in CSV format.  
 
 ---
+<img width="1913" height="959" alt="p2" src="https://github.com/user-attachments/assets/eafbae27-0f48-432b-8025-e04e1405cc79" />
 
 ## 🛠 Tech Stack
 - **Python 3.9+**
