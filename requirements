@@ -16,3 +16,5 @@ streamlit==1.32.0
 # Optional Utilities
 tqdm==4.66.2
 faker==21.6.0
+--force-reinstall matplotlib==3.8.3
+
