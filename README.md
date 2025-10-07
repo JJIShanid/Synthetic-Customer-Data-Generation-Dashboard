@@ -3,7 +3,8 @@
 This project demonstrates **GAN-based synthetic data generation** for customer analytics and a **Streamlit dashboard** to visualize the generated dataset.  
 It ensures **data privacy** while enabling businesses to train models, test dashboards, and analyze patterns without using real customer data.
 
----
+---<img width="1911" height="957" alt="p1" src="https://github.com/user-attachments/assets/ea8438a7-1450-4869-bc05-c50a329989e8" />
+
 
 
 ## ✅ Key Features
@@ -16,6 +17,7 @@ It ensures **data privacy** while enabling businesses to train models, test dash
 ✔ **Download Option** – Export synthetic dataset in CSV format.  
 
 ---
+<img width="1905" height="961" alt="p2" src="https://github.com/user-attachments/assets/349f2e3f-7c78-4abb-ad4d-a18e4f0f04ef" />
 
 ## 🛠 Tech Stack
 - **Python 3.9+**
